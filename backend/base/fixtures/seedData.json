@@ -1,0 +1,31 @@
+[
+  {
+    "model": "base.category",
+    "pk": 1,
+    "fields": {
+      "name": "Default",
+      "isActive": true,
+      "createdAt": "2023-02-16"
+    }
+  },
+  {
+    "model": "base.video",
+    "pk": 1,
+    "fields": {
+      "category": 1,
+      "title": "pexels.com test 1",
+      "url": "pexels-cup-of-couple-7301691.mp4",
+      "createdAt": "2023-02-16"
+    }
+  },
+  {
+    "model": "base.video",
+    "pk": 2,
+    "fields": {
+      "category": 1,
+      "title": "pexels.com test 2",
+      "url": "pexels-olya-kobruseva-6676464.mp4",
+      "createdAt": "2023-02-16"
+    }
+  }
+]

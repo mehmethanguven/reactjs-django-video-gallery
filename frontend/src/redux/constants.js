@@ -1,0 +1,6 @@
+export const apiUrl = 'https://api.merkezsoft.com.tr/api'
+export const socketUrl = 'https://api.merkezsoft.com.tr'
+export const imageApiUrl = 'https://api.merkezsoft.com.tr/'
+export const lapiUrl = 'http://localhost:3001/api'
+export const lsocketUrl = 'http://localhost:3001'
+export const limageApiUrl = 'http://localhost:3001/'
