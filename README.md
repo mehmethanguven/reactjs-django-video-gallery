@@ -7,6 +7,8 @@ Video Gallery Full Stack (Reactjs - Redux - Redux Toolkit - Python - Django - Po
 Mehmethan Guven
 <br/>
 <a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+<br/>
+Hire me!
 
 ## Some Screenshots
 
